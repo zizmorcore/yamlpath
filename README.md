@@ -1,9 +1,17 @@
 # yamlpath
 
-
 [![CI](https://github.com/zizmorcore/yamlpath/actions/workflows/ci.yml/badge.svg)](https://github.com/zizmorcore/yamlpath/actions/workflows/ci.yml)
 [![Crates.io](https://img.shields.io/crates/v/yamlpath)](https://crates.io/crates/yamlpath)
 [![docs.rs](https://img.shields.io/docsrs/yamlpath)](https://docs.rs/yamlpath)
+
+> [!IMPORTANT]
+>
+> This library has been migrated to [zizmorcore/zizmor].
+>
+> Follow the `crates/yamlpath` subdirectory of that repository
+> for ongoing development.
+
+[zizmorcore/zizmor]: https://github.com/zizmorcore/zizmor
 
 Format-preserving YAML feature extraction.
 
